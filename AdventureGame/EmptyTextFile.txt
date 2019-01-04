@@ -1,0 +1,8 @@
+﻿You hop off the train at the Ponyville station excited to reunite with your friends!
+
+But something's not right... Ponyville is eerily quiet. The normally bustling streets are deserted. 
+ 
+What's going on?
+
+1. You're totally freaked out! You get back on the train. If you take it all the way to the Crystal Empire, maybe Princess Cadance can help.
+2. You carefully proceed into town, glancing around for signs of what might be going on.

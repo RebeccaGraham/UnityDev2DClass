@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21261c5fbc57740449c2c43feb6f241b, type: 3}
+  m_Name: TownSquare
+  m_EditorClassIdentifier: 
+  storyText: 'You are in the town square.
+
+
+    Next choice:
+
+
+    1. Scared! Go back to train station
+
+    2. book shop
+
+    3. sweet shop'
+  nextStates:
+  - {fileID: 11400000, guid: 76c1f82c87e274830b40eb801b96efb9, type: 2}
+  - {fileID: 11400000, guid: c4b46640035164b89b94c6573c159c3c, type: 2}
+  - {fileID: 11400000, guid: f268e46bfbeed4014ad2ca74a586b43f, type: 2}

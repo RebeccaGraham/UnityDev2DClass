@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{57519B5A-0702-8D5E-8344-BE203C54CCC3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/StarDisplay.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LevelLoader.cs" Line="27" Column="1" />
+      <File FileName="Assets/Scripts/AttackerSpawner.cs" Line="25" Column="38" />
+      <File FileName="Assets/Scripts/Shooter.cs" Line="15" Column="1" />
+      <File FileName="Assets/Scripts/GameArea.cs" Line="15" Column="34" />
+      <File FileName="Assets/Scripts/Defender.cs" Line="7" Column="1" />
+      <File FileName="Assets/Scripts/DefenderButton.cs" Line="19" Column="28" />
+      <File FileName="Assets/Scripts/StarDisplay.cs" Line="9" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
