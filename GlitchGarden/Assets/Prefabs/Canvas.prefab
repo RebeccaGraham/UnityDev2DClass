@@ -434,7 +434,7 @@ GameObject:
   - component: {fileID: 7727227378717035438}
   - component: {fileID: 4552396520067358419}
   - component: {fileID: 7018505036163358172}
-  - component: {fileID: 6682485172386942965}
+  - component: {fileID: 5076449614245019661}
   m_Layer: 5
   m_Name: StarText
   m_TagString: Untagged
@@ -503,7 +503,7 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: 999
---- !u!114 &6682485172386942965
+--- !u!114 &5076449614245019661
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
